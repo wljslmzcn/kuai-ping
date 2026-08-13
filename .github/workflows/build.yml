@@ -47,7 +47,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tagName: v__VERSION__
-          releaseName: 快Ping v__VERSION__
-          releaseBody: '下载对应系统的版本即可使用'
+          releaseName: KuaiPing v__VERSION__
+          releaseBody: 'Download the version for your OS below.'
           releaseDraft: false
           prerelease: false
+          args: --verbose
