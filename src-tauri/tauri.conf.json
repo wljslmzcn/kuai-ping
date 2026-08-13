@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/nicegui/multi-user-tailwindcss/main/src-tauri/schemas/desktop-schema.json",
-  "productName": "快Ping",
+  "productName": "KuaiPing",
   "version": "1.0.0",
   "identifier": "com.kuaiping.app",
   "build": {
